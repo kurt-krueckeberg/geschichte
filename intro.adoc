@@ -31,21 +31,9 @@ terrible financial trials that began in 183[3/6] and didn't end until
 It had all came to a head in ??? 1841 when ??? arrived at his home.
   
   
-   
-Say or Click
-Tip: While dictating, press Enter↵ (on keyboard) to quickly move results from buffer to text editor.
+mention: 
+1. marriage contracts
+2. society
+3. government
+4. literacy
 
-Say	Insert
-Period	.
-Comma	,
-Question mark	?
-Colon	:
-Semi Colon	;
-Exclamation mark, Exclamation point	!
-Dash, Hyphen	-
-New line	↵
-New paragraph	↵↵
-Open parentheses	(
-Close parentheses	)
-Smiley, Smiley face	:-)
-Sad face	:-(
