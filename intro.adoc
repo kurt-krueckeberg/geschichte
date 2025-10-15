@@ -37,3 +37,77 @@ mention:
 3. government
 4. literacy
 
+=== Possilbe Route to Fort Wayne
+
+The Erie Canal route to Fort Wayne was available was both available and common in 1850, and
+it’s very plausible your family used it.
+
+Here’s how it would have worked, step-by-step:
+
+[arabic]
+. *New York City → Albany (Hudson River steamboat).* Immigrants
+typically boarded a fast Hudson River steamer up to Albany after landing
+in NYC. This was a well-established leg by mid-century. ([WIRED][1])
+. *Albany → Buffalo (Erie Canal packet).* From Albany they could take
+the Erie Canal west to Buffalo (the canal had linked Albany–Buffalo
+since 1825). Canal travel by immigrant "`packet`" was routine in the
+1825–early-1850s period. ([Erie Canalway National Heritage Corridor][2])
+. *Buffalo → Toledo (Lake Erie steamer).* From Buffalo, a lake steamer
+along Lake Erie to the Toledo/Maumee area was the normal connection
+toward Indiana and Ohio canal points. Contemporary accounts describe
+this as the next leg after the Erie Canal.
+([fillmorecountyjournal.com][3])
+. *Toledo/Maumee Valley → Fort Wayne (Wabash & Erie route).* The Wabash
+& Erie Canal reached Fort Wayne well before 1850 and, in its northern
+section, shared the Maumee River corridor with the Miami & Erie Canal as
+far as Junction, Ohio; from there the Wabash & Erie continued west to
+Fort Wayne. The Toledo-to-Lafayette section was celebrated/open by 1843,
+making a continuous water route from Lake Erie to Fort Wayne available.
+([Wabash and Erie Canal][4])
+
+== A timing note for *November 19, 1850*
+
+New York canals typically closed for winter from late November into
+early December, so an arrival on November 19 was late but still within
+the usual navigation window; they likely had to move quickly, and
+weather on Lake Erie could be dicey. ([USGS Publications Warehouse][5])
+
+== Possible alternative (also plausible in 1850)
+
+By late 1850 there was already *through railroad service across New York
+State* (Albany ↔ Buffalo via consolidated lines), which some travelers
+began to use because it was faster than the canal; from Buffalo they
+would still switch to a Lake Erie steamer toward Toledo and then the
+canal into Fort Wayne. (The separate Erie Railroad to Dunkirk on Lake
+Erie opened in May 1851.) ([Penelope][6])
+
+*Bottom line:* Your proposed path—Hudson steamer to Albany → Erie Canal
+to Buffalo → Lake steamer to Toledo/Maumee → Wabash & Erie Canal to Fort
+Wayne—is exactly the classic mid-century immigrant route to northeastern
+Indiana, and it fits both the infrastructure and the season for late
+1850. ([Erie Canalway National Heritage Corridor][2])
+
+[1]: https://www.wired.com/2007/08/dayintech-0817?utm_source=chatgpt.com
+"`Aug. 17, 1807: '`Fulton’s Folly`' Steams Up the Hudson`" [2]:
+https://eriecanalway.org/learn/history-culture?utm_source=chatgpt.com
+"`History and Culture`" [3]:
+https://fillmorecountyjournal.com/peering-at-the-past-by-canal-boat-or-cattle-car-westward-toward-minnesota/?utm_source=chatgpt.com
+"`Peering at the Past By canal boat or cattle car, westward …`" [4]:
+https://wabashanderiecanal.org/history/?utm_source=chatgpt.com "`Wabash
+& Erie Canal History`" [5]:
+https://pubs.usgs.gov/wsp/2038/report.pdf?utm_source=chatgpt.com
+"`Hydrology and Environmental Aspects of Erie Canal (1817- …`" [6]:
+https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/America/United_States/_Topics/history/_Texts/HARROC/4%2A.html?utm_source=chatgpt.com
+"`The Road of the Century • Chapter 4`"
+
+Footnote for the closing of the canal in late November
+
+* https://considerthesourceny.org/using-primary-sources/erie-canal-new-yorks-gift-nation/chapter-6-enlarging-and-maintaining-erie-canal/historical-context-maintaining-erie-canal?utm_source=chatgpt.com
+* https://eriecanalmuseum.org/weathering-winter-on-the-erie-canal/?utm_source=chatgpt.com
+* https://pubs.usgs.gov/wsp/2038/report.pdf?utm_source=chatgpt.com
+
+Books I own:
+
+* The BOOK I own about the Erie canal
+* The William Dollarhide BOOK on early transportation routes
+* Peopleing Indiana
