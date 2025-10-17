@@ -1,14 +1,31 @@
-When Johan Heinrich Krückeberg arrived with his family from the ship _____ at Castle 
+When Johan Heinrich Krückeberg arrived with his family on the ship Orion on November 5, 1849. 
 
-[mention the ships name from citation]
+The Orion Passenger List Header:
+
+image::orion-ship-header.jpg[Orion Passenger List Manifest] tells us:
+
+The passenger list's first papge header:
+details:
+. Master: F. Schwartze (his signature is visible at bottom right).
+. Ship: Orion, a bark (barque) — a common type of Bremen packet ship.
+. Burthen (tonnage): 333 tons.
+. Port of departure: Bremen (meaning Bremerhaven).
+. Arrival port: New York.
+. Arrival Date: 5 Nov 1849
+
+The citation for the Johann Heinrich Krückeberg family: https://www.familysearch.org/ark:/61903/1:1:27PC-NX8?lang=en&cid=fs_copy 
+offers these other details:
+. piece of luggage
+. based on their ages, the two youngest girls have their names reversed, and their sex is given as "boy".
+
 
 Garden (today Battery Park in south Manhattan),
 
 [mention here the obit of CHW K.? that describes they route his famly took 1850 from NYC they took to Fort Wayne]
 
-=== Castle Garden and todays' Castle Clinton National Monu mnet
+=== Arrival in NYC
 
-in Battery Park.
+See 
 
 === Possible Route to Fort Wayne
 

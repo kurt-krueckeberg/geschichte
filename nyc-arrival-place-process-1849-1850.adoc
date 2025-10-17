@@ -59,7 +59,7 @@ Street/East River)** and disembarked there—not by small boats from Castle Gard
 [3]: https://southstreetseaportmuseum.org/history-of-the-seaport/?utm_source=chatgpt.com "The History of the Seaport"
 [4]: https://www.ggarchives.com/OceanTravel/Passengers/Ports/Bremen-PassengerLists.html?utm_source=chatgpt.com "Bremen Passenger Lists 1881-1951"
 
-## Articles to consult
+### Articles to Consult about Ship Arrivals in NYC
 
 Yes—there are several solid, readable pieces that explain how arrivals worked **before 1855** (i.e., quarantine off Staten Island, then docking at Manhattan piers rather than Castle Garden). Here are good starting points:
 
@@ -96,7 +96,7 @@ Happy to chase your ancestors’ **ship + date** in historical newspapers and pu
 
 ## Strategy for Finding the Arrival Pier
 
-Great question. In the late-1840s/1850s New York papers ran daily “Ship/Marine” columns—often titled **Ship News**, **Shipping Intelligence**, **Marine Intelligence**, or **Marine Journal**. Titles that regularly carried these columns included:
+In the late-1840s/1850s New York papers ran daily “Ship/Marine” columns—often titled **Ship News**, **Shipping Intelligence**, **Marine Intelligence**, or **Marine Journal**. Titles that regularly carried these columns included:
 
 * **New York Herald** (daily). A core paper for harbor reports. ([New York State Library][1])
 * **Journal of Commerce** (daily). A leading commercial sheet; central to marine reporting. ([New York State Library][1])
