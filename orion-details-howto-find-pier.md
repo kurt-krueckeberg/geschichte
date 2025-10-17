@@ -115,13 +115,16 @@ Yes—you’ve got a solid option **within Fort Wayne** and inside your 20-mile 
 
    Date range **Nov 1–10, 1849**; paper: **New-York Daily Tribune**.
 
+See this list of [https://library.pfw.edu/az/databases?q=newspapers](newspaper databases at the Helmke libary).
+
 ### Also useful (same 20-mile circle)
 
 **Allen County Public Library (Genealogy Center)**
 
 * On-site they offer **Newspapers.com** and **NewspaperArchive** (helpful backup if you need alternative NYC papers). Access is **in-library only**. ([Allen County Public Library][4])
 
-If you want, tell me when you plan to go to PFW and I’ll give you the exact **click-path** and **query filters** to pull the Marine/Ship News for Nov 5–7, 1849 in a couple of steps.
+If you want, tell me when you plan to go to PFW and I’ll give you the exact **click-path** and **query filters** to
+pull the Marine/Ship News for Nov 5–7, 1849 in a couple of steps.
 
 [1]: https://library.pfw.edu/newspapers?utm_source=chatgpt.com "Newspapers - Library at Purdue University Fort Wayne"
 [2]: https://answers.library.pfw.edu/faq/339150?utm_source=chatgpt.com "Is the library open to the public? - FAQ - Purdue Fort Wayne"
