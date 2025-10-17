@@ -117,6 +117,23 @@ Yes—you’ve got a solid option **within Fort Wayne** and inside your 20-mile 
 
 See this list of [https://library.pfw.edu/az/databases?q=newspapers](newspaper databases at the Helmke libary).
 
+#### The Helmke Libary is open to the public
+
+Accoring to (https://answers.library.pfw.edu/faq/339150)[Is the library open to the public? ]:
+
+Yes!  You are welcome to come to the library to study, do research, or check out books. There are areas reserved
+for quiet study on the third and fourth floors. There is a guest computer across from the elevators on the first
+floor that will allow you access to the internet and most of our databases. If you wish to bring your own laptop,
+you will need to go to the IT Services Help Desk in Kettler Hall, Room 206 to get a Wi-Fi guest username and
+password before coming to the library. Help Desk hours can be found at
+https://www.pfw.edu/offices/information-technology-services/get-help/. 
+
+Indiana residents can check out up to 10 books at a time. Please bring two forms of identification with your
+current address to the Service Desk on the first floor of the library to get a library card. One must be an
+official photo ID (like a driver’s license or a state ID card). Daily or semester library hours can be found on the
+library webpage at https://library.pfw.edu/. The hours are subject to change, so be sure to check the hours before
+coming to the Library.
+
 ### Also useful (same 20-mile circle)
 
 **Allen County Public Library (Genealogy Center)**
