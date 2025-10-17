@@ -82,3 +82,49 @@ copy-paste query for that site and the **exact issue dates/pages** to open first
 [5]: https://libguides.nypl.org/nycnewspapers/bydigitalresource?utm_source=chatgpt.com "By Digital Resource - New York City Newspapers at The New ..."
 [6]: https://icon.crl.edu/calendar.php?pub_id=sn83030542&utm_source=chatgpt.com "The New York journal of commerce"
 
+Yes—you’ve got a solid option **within Fort Wayne** and inside your 20-mile limit:
+
+### The _New-York Daily Tribune_ and where it's digitized:
+
+| Platform                                                | Has 1849 Tribune issues?                               | Searchability                    | Notes                                                                             |
+| ------------------------------------------------------- | ------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------------------------- |
+| **Library of Congress “Chronicling America”**           | ✅ Yes — partial 1849 coverage                          | 🔍 Full-text searchable          | 100% free, official scans; sometimes missing pages.                               |
+| **Newspapers.com**                                      | ⚠️ No — their Tribune holdings begin later (mid-1850s) | 🔍 Excellent OCR where available | For your 1849 date, they don’t have the Tribune.                                  |
+| **GenealogyBank**                                       | ❌ No 1849 Tribune                                      | —                                | Focuses on smaller regional papers.                                               |
+| **ProQuest Historical Newspapers** (via many libraries) | ✅ Yes — complete searchable Tribune run                | 🔍 Excellent OCR                 | Requires library or university login (often via NYPL or university library card). |
+| **Old Fulton NY Post Cards (fultonhistory.com)**        | ⚠️ Partial Tribune and Herald runs                     | 🧭 Searchable but OCR is chaotic | Free, but hard to navigate; try anyway with keywords.                             |
+
+
+### Best bet (in town) to view New-York Daily Tribune
+
+**Purdue University Fort Wayne — Helmke Library**
+
+* They explicitly note **expanded access to ProQuest Historical Newspapers**. ([library.pfw.edu][1])
+* **Public/guest access is allowed on-site**: the library says visitors can use **guest computers** that provide access to “most of our databases.” ([answers.library.pfw.edu][2])
+
+**What to do there**
+
+1. Go to Helmke Library (PFW).
+2. Ask staff for a **guest workstation**.
+3. Open **A–Z Databases** → find **ProQuest Historical Newspapers**. ([library.pfw.edu][3])
+4. Search:
+
+   ```
+   "Bark Orion" AND Bremen
+   ```
+
+   Date range **Nov 1–10, 1849**; paper: **New-York Daily Tribune**.
+
+### Also useful (same 20-mile circle)
+
+**Allen County Public Library (Genealogy Center)**
+
+* On-site they offer **Newspapers.com** and **NewspaperArchive** (helpful backup if you need alternative NYC papers). Access is **in-library only**. ([Allen County Public Library][4])
+
+If you want, tell me when you plan to go to PFW and I’ll give you the exact **click-path** and **query filters** to pull the Marine/Ship News for Nov 5–7, 1849 in a couple of steps.
+
+[1]: https://library.pfw.edu/newspapers?utm_source=chatgpt.com "Newspapers - Library at Purdue University Fort Wayne"
+[2]: https://answers.library.pfw.edu/faq/339150?utm_source=chatgpt.com "Is the library open to the public? - FAQ - Purdue Fort Wayne"
+[3]: https://library.pfw.edu/az/databases?utm_source=chatgpt.com "A-Z Databases - Helmke Library"
+[4]: https://www.acpl.lib.in.us/digital-resources?utm_source=chatgpt.com "Digital Resources"
+
