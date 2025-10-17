@@ -32,7 +32,7 @@ Given the **date (Nov 1849)** and **origin (Bremen)**:
 
 Because *F. Schwartze* captained the *Orion*, you can now:
 
-* Search **New York Herald**, **Journal of Commerce**, **Evening Post**, or **New-York Tribune** issues dated **5–7
+* Search **New York Herald**, **New York Journal of Commerce**, **Evening Post**, or **New-York (Daily?) Tribune** issues dated **5–7
   November 1849** in their *Ship News* or *Marine Intelligence* columns.  Look for an entry like:
 
   > “Bark *Orion*, Schwartze, from Bremen — agent [Name], arrived [date].”
