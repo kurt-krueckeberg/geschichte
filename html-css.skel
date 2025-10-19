@@ -6,6 +6,7 @@
 body {
 	width: 50%;
 	margin: auto auto;
+}
 p {
 font-family: "Open Sans", sans;
 }
