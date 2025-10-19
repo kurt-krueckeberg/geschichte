@@ -127,13 +127,13 @@ If you want, tell me which of these children you’ve already checked for **conf
 
 You’ve narrowed the problem well. Given your constraints (confirmations without parents, no more child burials, no Beichtkinder lists, Anna Maria’s burial without spouse/children, and spotty address data), here’s the defensible bottom line—plus the few tools that still *can* discriminate.
 
-# What’s defensible right now
+### What’s defensible right now
 
 * **Proven**: Only **Johann Wilhelm (bapt. Feb 1739; d. 1747)** is a child of **Johann Heinrich Krückeberg** (by the 1747 burial naming the father).
 * **Not proven**: **Every other child** in your table. The eight-year gap (1728→1736), then late-40s cluster (1744, 1746, ~1750) with a mother born **1701** is *biologically possible* but **genealogically atypical** for one couple in Petzen/Berenbusch—especially since you *do* have evidence of another father (**Jobst Krückeberg**) active in the same window.
 * **Inference**: At least **two** Krückeberg nuclear families were having children in Berenbusch 1728–1750 (Johann Heinrich; Jobst). A third cannot be excluded. Assigning all but Jobst’s child to Johann Heinrich & Anna Maria is **unsupported** and creates an improbable birth pattern.
 
-# How to separate the children despite sparse church entries
+### How to separate the children despite sparse church entries
 
 Since confirmations don’t name parents and you lack Beichtkinder lists, lean on **identity markers other than names**—the things Petzen-era records *do* differentiate:
 
@@ -168,7 +168,7 @@ Since confirmations don’t name parents and you lack Beichtkinder lists, lean o
    * Births **after 1749/1750** → prima facie **not** Anna Maria.
    * Very long gaps followed by dense late-40s clustering → **require corroboration** (sponsors/Stand/house) to keep them with Anna Maria.
 
-# Concrete, low-friction workflow you can run now
+### Concrete, low-friction workflow you can run now
 
 1. **Make a one-page extraction sheet** per ambiguous baptism:
 
@@ -182,7 +182,7 @@ Since confirmations don’t name parents and you lack Beichtkinder lists, lean o
    * Keep **Johann Wilhelm (1739–1747)** under **Johann Heinrich & Anna Maria**.
    * Move the others to an **“Unknown Krückeberg couple of Berenbusch (mid-18th c.)”** placeholder *grouped by your A/B/C clusters*, with a Research Note explaining the method (Stand + sponsors + multiple Krückeberg fathers active).
 
-# Likely interim assignments (as hypotheses to test)
+### Likely interim assignments (as hypotheses to test)
 
 * **1728 Johann Friedrich**: plausible for Johann Heinrich & Anna Maria (mother ~27).
 * **1736, 1744, 1746, c.1750**: require **Stand + sponsor** corroboration before staying with Anna Maria; absent that, treat as **mixed among ≥2 households** (one documented father = **Jobst**).
