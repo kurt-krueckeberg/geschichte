@@ -61,3 +61,36 @@ NLA Bückeburg (and why they help), in rough order of payoff.
 
 If you want, tell me which of these series you can access first (Rentkammer tax rolls vs. court inventories), and I’ll draft a **1-page pull list** with the exact search terms (German archive phrasing) you can hand the archivist to retrieve volumes for **Berenbusch, 1725–1750 (+ buffer to 1760)**.
 
+## Do Other Records Exist?
+
+Yes—many **non-church** records for Schaumburg-Lippe **do** survive today, and they’re held mainly at the **Niedersächsisches Landesarchiv, Abteilung Bückeburg (NLA BU)**. The key is knowing which fonds to ask for:
+
+* **Hofkammer / Rentkammer records (finance/land):**
+  *K 1 – Älteres Kammerarchiv (1647–1777)* and *K 90 – Rechnungsregistratur (1615–1949)*. K 90’s description explicitly mentions long runs of **Amts-, Meierei-, Mühlen-, Ziegelei- etc. accounts**—the kind of material that often includes village-by-village payers and can reveal **heads of household** in places like Berenbusch. ([arcinsys.niedersachsen.de][1])
+
+* **Government central series (context & cross-refs):**
+  *L 2 – Alte Regierungsregistratur (1553–1823)* notes that the **Rentkammer was spun out ca. 1700/1728**, so fiscal/land files move from L-series into the Kammer/Hofkammer series—useful background when you ask staff for tax/lease books or lists. ([arcinsys.niedersachsen.de][2])
+
+* **Military / militia (male lists):**
+  *F 2 – Allgemeine Militärsachen* includes items with **Aushebungslisten (recruiting rolls)** for Schaumburg-Lippe; even if later examples are shown online, the fonds itself spans the 18th–19th c. and is the right place to request earlier rolls. ([arcinsys.niedersachsen.de][3])
+
+* **Probate/voluntary jurisdiction (heirs/guardians):**
+  *H 121d – Freiwillige Gerichtsbarkeit* contains **testaments/inventories** and related files (the series description explains it aggregates such materials from mid-18th c. onward). These can name **children, spouses, and ages**. ([arcinsys.niedersachsen.de][4])
+
+* **Where and how to request:**
+  NLA Bückeburg (Schloßplatz 2, 31675 Bückeburg) and its online catalog **Arcinsys** list these fonds and many item-level entries. You can email the reading room and cite the fonds codes above when asking for **Berenbusch** items (use place keywords like *Berenbusch*, *Petzen*, *Amt Bückeburg*; record-type keywords like *Kontribution*, *Meierei*, *Rechnungen*, *Inventar*, *Vormundschaft*). ([nla.niedersachsen.de][5])
+
+### What this means for your case (1725–1750)
+
+* Start with **K 1/K 90** to look for **village-level accounts or tenant/lease lists** naming **Krückeberg** heads in Berenbusch.
+* Check **F 2** for any **militia/recruiting** lists that pin adult **Johann Heinrich / Jobst** to specific years.
+* Check **H 121d** for **inventories/guardianships** that name children of deceased Krückebergs.
+
+If you want, I’ll draft a 1-paragraph German email you can paste to NLA BU asking specifically for **Berenbusch (Petzen)** items in **K 1/K 90**, any **Aushebungslisten** naming Krückebergs in the 1730s–1740s (F 2), and any **inventories/guardianships** for Krückebergs circa 1725–1760 (H 121d).
+
+[1]: https://www.arcinsys.niedersachsen.de/arcinsys/list.action?nodeid=g226&page=1&utm_source=chatgpt.com "Nds. Landesarchiv, Abt. Bückeburg > Fürstlich ..."
+[2]: https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=b659&utm_source=chatgpt.com "NLA BU L 2 - Arcinsys Detailseite"
+[3]: https://www.arcinsys.niedersachsen.de/arcinsys/list.action?nodeid=g208261&page=1&utm_source=chatgpt.com "NLA BU > F 2 > Allgemeine Militärsachen"
+[4]: https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=b595&utm_source=chatgpt.com "NLA BU H 121d - Arcinsys Detailseite"
+[5]: https://nla.niedersachsen.de/startseite/landesarchiv/abteilung_buckeburg/abteilung-buckeburg-193940.html?utm_source=chatgpt.com "Abteilung Bückeburg | Nds. Landesarchiv"
+
