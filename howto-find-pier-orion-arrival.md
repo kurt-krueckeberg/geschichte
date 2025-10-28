@@ -71,7 +71,8 @@ Great—here’s a tight, do-this list to find the **bark *Orion*, Capt. F. Schw
 
 ## Bonus targets (if needed)
 
-* If the daily doesn’t show it, try the **commercial sheets** (often stronger on agent/berth notes): **Journal of
+* If the daily  general-circulation newspapers such as the New-York Daily Tribune, the New York Herald, or the New York Evening Post,
+  don’t show it, try the **commercial sheets** (often stronger on agent/berth notes): **Journal of
   Commerce** (library or index pages to locate issues/copies). ([icon.crl.edu][6])
 
 If you want, tell me which of the sites above you can access (NYPL card, Newspapers.com, etc.). I’ll give you a
@@ -83,8 +84,6 @@ copy-paste query for that site and the **exact issue dates/pages** to open first
 [4]: https://www.newspapers.com/paper/new-york-herald/4528/?utm_source=chatgpt.com "New York Herald Archive"
 [5]: https://libguides.nypl.org/nycnewspapers/bydigitalresource?utm_source=chatgpt.com "By Digital Resource - New York City Newspapers at The New ..."
 [6]: https://icon.crl.edu/calendar.php?pub_id=sn83030542&utm_source=chatgpt.com "The New York journal of commerce"
-
-Yes—you’ve got a solid option **within Fort Wayne** and inside your 20-mile limit:
 
 ### The _New-York Daily Tribune_ and where it's digitized:
 
