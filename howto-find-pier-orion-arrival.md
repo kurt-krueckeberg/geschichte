@@ -145,8 +145,8 @@ coming to the Library.
 If you want, tell me when you plan to go to PFW and I’ll give you the exact **click-path** and **query filters** to
 pull the Marine/Ship News for Nov 5–7, 1849 in a couple of steps.
 
-[1]: https://library.pfw.edu/newspapers?utm_source=chatgpt.com "Newspapers - Library at Purdue University Fort Wayne"
-[2]: https://answers.library.pfw.edu/faq/339150?utm_source=chatgpt.com "Is the library open to the public? - FAQ - Purdue Fort Wayne"
-[3]: https://library.pfw.edu/az/databases?utm_source=chatgpt.com "A-Z Databases - Helmke Library"
-[4]: https://www.acpl.lib.in.us/digital-resources?utm_source=chatgpt.com "Digital Resources"
+[7]: https://library.pfw.edu/newspapers?utm_source=chatgpt.com "Newspapers - Library at Purdue University Fort Wayne"
+[8]: https://answers.library.pfw.edu/faq/339150?utm_source=chatgpt.com "Is the library open to the public? - FAQ - Purdue Fort Wayne"
+[9]: https://library.pfw.edu/az/databases?utm_source=chatgpt.com "A-Z Databases - Helmke Library"
+[10]: https://www.acpl.lib.in.us/digital-resources?utm_source=chatgpt.com "Digital Resources"
 

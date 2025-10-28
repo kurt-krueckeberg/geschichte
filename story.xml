@@ -3,7 +3,7 @@
 <?asciidoc-numbered?>
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
-<title>Arrival in NYC</title>
+<title>Johann Heinrich Krückeberg Story</title>
 <date>2025-10-27</date>
 </info>
 <simpara>When Johan Heinrich Krückeberg arrived with his family on the ship Orion on November 5, 1849.</simpara>
@@ -22,10 +22,15 @@ offers these other details:
 . piece of luggage
 . based on their ages, the two youngest girls have their names reversed, and their sex is given as "boy".</simpara>
 <simpara>Garden (today Battery Park in south Manhattan),</simpara>
-<mention here the obit of CHW K.? that describes they route his famly took 1850 from NYC they took to Fort Wayne xml:id="_arrival_in_nyc">
+<simpara>mention here: the obit of CHW K.? that describes they route his famly took 1850 from NYC they took to Fort Wayne</simpara>
+<section xml:id="_arrival_in_nyc">
 <title>Arrival in NYC</title>
-<simpara>See
-=== Possible Route to Fort Wayne</simpara>
+<simpara>See:
+. howto-find-pier-orion-arrival.md (it mentions that PFW has the necessary historic newspapers database to search)
+. nyc-ship-arrival-process.md</simpara>
+</section>
+<section xml:id="_possible_route_to_fort_wayne">
+<title>Possible Route to Fort Wayne</title>
 <simpara>The Erie Canal route to Fort Wayne was available was both available and common in 1850, and
 it’s very plausible your family used it.</simpara>
 <simpara>Here’s how it would have worked, step-by-step:</simpara>
@@ -58,7 +63,7 @@ making a continuous water route from Lake Erie to Fort Wayne available.
 ([Wabash and Erie Canal][4])</simpara>
 </listitem>
 </orderedlist>
-</mention here the obit of CHW K.? that describes they route his famly took 1850 from NYC they took to Fort Wayne>
+</section>
 <section xml:id="_a_timing_note_for_november_19_1850">
 <title>A timing note for <emphasis role="strong">November 19, 1850</emphasis></title>
 <simpara>New York canals typically closed for winter from late November into
