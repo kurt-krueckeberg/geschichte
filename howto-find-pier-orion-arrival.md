@@ -69,11 +69,20 @@ Great—here’s a tight, do-this list to find the **bark *Orion*, Capt. F. Schw
    * “**Bk. Orion, Schwartze, from Bremen** … to [**agent**], [**South St. (wharf/slip)**].”
      If the wharf isn’t in the arrivals list, check **ads** the same week for the Bremen packet line—they often state the **regular berth** (e.g., “foot of Pike Slip, South St.”).
 
-## Bonus targets (if needed)
+## Other Sources to Consult (if needed)
 
 * If the daily  general-circulation newspapers such as the New-York Daily Tribune, the New York Herald, or the New York Evening Post,
-  don’t show it, try the **commercial sheets** (often stronger on agent/berth notes): **Journal of
-  Commerce** (library or index pages to locate issues/copies). ([icon.crl.edu][6])
+  don’t show it, try the business-oriented dailies that served New York’s merchant community. These are:
+  * The Journal of Commerce — the most important of them; published detailed shipping manifests, arrivals, clearances, and agents.
+  * Courier & Enquirer
+  * New York Express
+  * Shipping and Mercantile Gazette (a bit later)
+
+  To find them consult:
+  * ProQuest Historical Newspapers: American Business & Financial News Collection (if your library has it),
+  * Readex “19th-Century U.S. Newspapers” (which Helmke Library already subscribes to),
+  * or digitized images in the New York Public Library or Library of Congress collections. 
+
 
 If you want, tell me which of the sites above you can access (NYPL card, Newspapers.com, etc.). I’ll give you a
 copy-paste query for that site and the **exact issue dates/pages** to open first for the *Orion* note.
