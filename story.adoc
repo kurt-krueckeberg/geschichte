@@ -1,3 +1,5 @@
+= Johann Heinrich Krückeberg Story
+
 When Johan Heinrich Krückeberg arrived with his family on the ship Orion on November 5, 1849. 
 
 The Orion Passenger List Header:
@@ -23,11 +25,13 @@ Garden (today Battery Park in south Manhattan),
 
 [mention here the obit of CHW K.? that describes they route his famly took 1850 from NYC they took to Fort Wayne]
 
-=== Arrival in NYC
+== Arrival in NYC
 
-See 
+See:
+. howto-find-pier-orion-arrival.md (it mentions that PFW has the necessary historic newspapers database to search)
+. nyc-ship-arrival-process.md  
 
-=== Possible Route to Fort Wayne
+== Possible Route to Fort Wayne
 
 The Erie Canal route to Fort Wayne was available was both available and common in 1850, and
 it’s very plausible your family used it.
