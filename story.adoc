@@ -2,6 +2,12 @@
 
 When Johan Heinrich Krückeberg arrived with his family on the ship Orion on November 5, 1849. 
 
+His father died in 1822 of xxx at age xxx when his son was age xxx;
+his mother had been reduced to poverty by the medical expenses from his
+father's life long illness;
+in 18xx the Amt in Bückeberg decreed Johann Heinrich had 14 days to pay a debt of 200
+reichthslers, a year's salary, or his farmstead would be forceably sold to cover the debt.
+
 The Orion Passenger List Header:
 
 image::orion-ship-header.jpg[Orion Passenger List Manifest] tells us:
